@@ -93,9 +93,7 @@ header.header nav.navbar.navbar-expand-sm.fondo-menu .navbar-collapse#opciones u
   border: 2px solid green;
 }
 
-main {
-  /* Estilos para SECCION3 */
-}
+
 main .seccion1 {
   height: 50vh;
   display: grid;
